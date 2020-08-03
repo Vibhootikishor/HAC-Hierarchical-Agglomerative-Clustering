@@ -1,0 +1,2 @@
+# HAC-Hierarchical-Agglomerative-Clustering
+Hierarchical clustering algorithms(HAC) are either top-down or bottom-up. Bottom-up algorithms treat each document as a singleton cluster at the outset and then successively merge (or agglomerate) pairs of clusters until all clusters have been merged into a single cluster that contains all documents. Bottom-up hierarchical clustering is therefore called hierarchical agglomerative clustering or HAC.
